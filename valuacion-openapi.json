@@ -5,7 +5,7 @@
     "version": "1.0.0"
   },
   "paths": {
-    "/valuacion": {
+    "https://us-central1-valuacion-406716.cloudfunctions.net/valuacion/valuacion-openapi.json": {
       "post": {
         "summary": "Realizar una valuación",
         "requestBody": {
