@@ -1,0 +1,16 @@
+{
+  "name": "valuacion",
+  "version": "1.0.0",
+  "description": "Reto Tecnico Monte de Piedad",
+  "main": "index.js",
+  "scripts": {
+    "start": "node valuador.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": ">=18.12.1"
+  },
+  "private": true
+}
